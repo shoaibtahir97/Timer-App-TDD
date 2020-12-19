@@ -1,0 +1,37 @@
+.timer-container {
+	background-color: var(--timer-background-color);
+	border: var(--timer-border);
+	height: var(--timer-height);
+	width: var(--timer-width);
+}
+
+body {
+	background-color: rgb(95, 99, 99);
+}
+
+.header {
+	  color: white;
+}
+
+.wrapper {
+	text-align: center;
+	justify-content: center;
+	margin-top:20%;
+	color: aqua;
+}
+
+.displayContainer {
+	font-size: 80px;
+	padding-bottom: 30px;
+	color: white;
+}
+
+.buttons {
+	font-size: 50px;	
+	color:aqua;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.buttons:hover {
+	background-color:rgb(8, 8, 8);}
